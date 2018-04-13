@@ -1,5 +1,5 @@
 "name": "EmeraldBot",
-  "description": "A Discord bot by EmeraldDev.",
+  "description": "Hello, I am EmeraldBot developed by EmeraldDev.",
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
